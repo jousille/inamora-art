@@ -1,0 +1,14 @@
+// Replace demo art and prices with verified originals before launch.
+export const collection={id:"pixelism",number:"01",title:"PIXELISM",subtitle:"A different way of seeing.",description:"Вблизи — отдельные мазки, геометрия, цвет и фактура. На расстоянии — целостный образ. Ручная пиксельная живопись, вдохновлённая цифровой эстетикой."};
+export const artworks=[
+{id:"px-001",code:"PX-2026-001",title:"Quiet chaos",size:"30 × 40 cm",medium:"Acrylic on canvas",year:"2026",price:null,currency:"EUR",status:"available",palette:["#311e30","#81384c","#b96170","#d7a6a1","#ead1b3"],seed:1,description:"Порядок и хаос не обязательно противоположны. Иногда именно их сочетание создаёт гармонию."},
+{id:"px-002",code:"PX-2026-002",title:"Fragments of her",size:"40 × 50 cm",medium:"Acrylic on canvas",year:"2026",price:null,currency:"EUR",status:"sold",palette:["#252b2b","#666650","#ac9477","#d0a995","#ead9bd"],seed:2,description:"О многогранности личности и тех её частях, которые остаются невидимыми."},
+{id:"px-003",code:"PX-2026-003",title:"Somewhere within",size:"30 × 40 cm",medium:"Acrylic on canvas",year:"2026",price:null,currency:"EUR",status:"available",palette:["#273f40","#547b6b","#95a58e","#c9c1a6","#eee0c2"],seed:3,description:"О внутреннем пространстве, которое принадлежит только нам."},
+{id:"px-004",code:"PX-2026-004",title:"Soft resistance",size:"40 × 50 cm",medium:"Acrylic on canvas",year:"2026",price:null,currency:"EUR",status:"available",palette:["#3e2839","#81506b","#b58795","#d6aeb1","#eeddd4"],seed:4,description:"О мягкости, которая не исключает силы."},
+{id:"px-005",code:"PX-2026-005",title:"The space between",size:"30 × 40 cm",medium:"Acrylic on canvas",year:"2026",price:null,currency:"EUR",status:"sold",palette:["#32323e","#65637d","#9996b2","#c9b9cb","#ebe0da"],seed:5,description:"О расстоянии, близости и пространстве между ними."},
+{id:"px-006",code:"PX-2026-006",title:"Unfinished",size:"30 × 40 cm",medium:"Acrylic on canvas",year:"2026",price:null,currency:"EUR",status:"available",palette:["#493e35","#806950","#b49b75","#d2bb97","#f3e4c8"],seed:6,description:"О свободе меняться и оставаться незавершённым."}
+];
+export const posts=[
+{slug:"why-pixels",date:"Studio diary",title:"Почему именно пиксели?",description:"О поиске своего художественного языка.",body:["Пиксельная живопись позволяет исследовать, как отдельные цвета и формы становятся частью целого.","Это демонстрационная заметка. Перед публикацией здесь появится история художницы о выборе техники и первых экспериментах."]},
+{slug:"slow-art",date:"Reflections",title:"Искусство замедляться",description:"О внимании, времени и творчестве.",body:["Когда картина состоит из множества отдельных мазков, процесс требует внимания и времени.","Это демонстрационная заметка, которую мы заменим полноценной публикацией."]}
+];
